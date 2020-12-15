@@ -1,1 +1,2 @@
-mod archive;
+pub mod archive;
+pub mod download;
